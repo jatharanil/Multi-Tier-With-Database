@@ -79,4 +79,4 @@ spec:
   selector:
     app: bankapp
 #######################This is final application depoly on portal##############
-##############
+##############keep the pwd as same in webhook url#######
